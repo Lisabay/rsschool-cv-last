@@ -1,22 +1,33 @@
-#### Yelyzaveta Korniienko
-future software developer
+# Yelyzaveta Korniienko
+*future software developer*
 
-Email: yelyzavetabyuse@gmail.com
-Github: Lisabay
+**Email:** yelyzavetabyuse@gmail.com :envelope:
+**Github:** [Lisabay](https://github.com/Lisabay)
 
-## Summary
+### Summary
 Aspiring software developer with a passion for coding and problem-solving. Eager to build a career in software development by leveraging skils in programming, critical thinking and teamwork.
 
-## Skills
-Programing lenguages: C(beginner), JavaScript(beginner), HTML, CSS
-Version control: Git, GitHub
-Problem solving: logical thinking, troubleshooting
-Soft skills: team collaboration, time management, attention to detail
+### Skills
+- **Programing lenguages:** C(beginner), JavaScript(beginner), HTML, CSS
+- **Version control:** Git, GitHub
+- **Problem solving:** logical thinking, troubleshooting
+- **Soft skills:** team collaboration, time management, attention to detail
 
-## Education
+### Education
+2015 Oles Honchar Dnipropetrovsk National University
+_Applied phisics_
 
-## Code example
+### Code example
 
-## Languages
-English 
-Ukrenian
+```
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, world!");
+    return (0);
+}
+```
+### Languages
+- English 
+- Ukrenian
